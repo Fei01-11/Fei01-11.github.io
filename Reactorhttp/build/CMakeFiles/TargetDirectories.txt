@@ -1,0 +1,3 @@
+/home/yifei/Reactorhttp/build/CMakeFiles/reactor_http.dir
+/home/yifei/Reactorhttp/build/CMakeFiles/edit_cache.dir
+/home/yifei/Reactorhttp/build/CMakeFiles/rebuild_cache.dir

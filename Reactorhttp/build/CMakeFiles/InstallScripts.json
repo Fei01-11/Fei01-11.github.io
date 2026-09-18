@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yifei/Reactorhttp/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

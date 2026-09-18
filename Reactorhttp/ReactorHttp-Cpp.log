@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(843,5): error : 没有为项目 'ReactorHttp-Cpp.vcxproj' 设置 BaseOutputPath/OutputPath 属性。 请检查以确保为此项目指定了有效的配置和平台组合。 Configuration='Debug' Platform='x64'。如果其他项目尝试遵循对此项目的项目到项目引用、此项目已卸载或未包含在解决方案中，并且引用项目未使用相同或等效的配置或平台进行生成，则也可能出现此错误。
